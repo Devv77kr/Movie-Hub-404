@@ -43,9 +43,6 @@ _Main Page Screenshot_
 - Gemini API (for Popcorn Pilot)
 - Tailwind CSS
 
-## Demo Video 🎥
-
-[![Demo Video](https://img.youtube.com/vi/yfRJAPOVJPY/0.jpg)](https://youtu.be/yfRJAPOVJPY?si=CsGf5JSeSJ6Ps_Ta)
 
 ## Screenshots 📸
 
